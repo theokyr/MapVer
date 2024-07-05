@@ -18,4 +18,4 @@ MapVer is inspired by [Semantic Versioning](https://semver.org/), adapted for th
 
 ## License
 
-[Creative Commons ― CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
